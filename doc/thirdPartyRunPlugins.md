@@ -43,6 +43,7 @@ Contact the developers of a plugin directly for assistance with a specific plugi
 | [TailwindCSS](https://github.com/skttl/ptrun-tailwindcss) | [skttl](https://github.com/skttl) | Search the documentation of TailwindCSS |
 | [HttpStatusCodes](https://github.com/grzhan/HttpStatusCodePowerToys) | [grzhan](https://github.com/grzhan) | Search for http status codes |
 | [SVGL](https://github.com/Sameerjs6/powertoys-svgl) | [SameerJS6](https://github.com/SameerJS6) | Search, Browse and copy SVG logos from SVGL. |
+| [BrowserTabSearch](https://github.com/albertxwz/BrowserTabSearch) | [albertxwz](https://github.com/albertxwz) | Search your browser tabs |
 
 ## Extending software plugins
 
